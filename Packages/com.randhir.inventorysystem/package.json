@@ -1,0 +1,22 @@
+{
+  "name": "com.randhir.inventorysystem",
+  "version": "1.0.0",
+  "displayName": "Modular Inventory System",
+  "description": "Reusable Inventory System with ScriptableObjects and UI",
+  "unity": "2021.3",
+  "author": {
+    "name": "RP",
+    "email": "RP@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Inventory Scene",
+      "description": "A working sample with inventory and item UI",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
